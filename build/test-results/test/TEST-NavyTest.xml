@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="NavyTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-03-16T16:29:39" hostname="LAPTOP-7DGNM8CM" time="0.079">
+  <properties/>
+  <testcase name="GIVEN an enemy navy WHEN consulting it's aircraft plates THEN return a list with enemy plates" classname="NavyTest" time="0.079"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
